@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+    #h1t {
+      font-size: 40px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    p {
+      font-size: 10px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    #cardazul {
+      width: 60%;
+    }
+  }
